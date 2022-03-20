@@ -2,7 +2,13 @@
   #top {
     padding-top: 7rem;
   }
+  .hero__title {
+    line-height: 1.6;
+  }
 }
 .service__link {
   color: #afafaf;
+}
+.hero__text {
+  font-size: 18px;
 }
